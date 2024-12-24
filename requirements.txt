@@ -4,3 +4,5 @@ pillow>=9.0.0
 numpy>=1.21.0
 requests>=2.25.0
 beautifulsoup4>=4.9.0
+dlib>=19.24.0
+cmake>=3.18.4
