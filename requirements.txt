@@ -4,5 +4,5 @@ pillow
 numpy
 requests
 beautifulsoup4
-dlib==19.22.0
 cmake
+dlib==19.22.0
