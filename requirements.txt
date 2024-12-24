@@ -1,8 +1,8 @@
-streamlit>=1.0.0
-face_recognition>=1.3.0
-pillow>=9.0.0
-numpy>=1.21.0
-requests>=2.25.0
-beautifulsoup4>=4.9.0
-dlib>=19.24.0
-cmake>=3.18.4
+streamlit
+face_recognition==1.3.0
+pillow
+numpy
+requests
+beautifulsoup4
+dlib==19.22.0
+cmake
